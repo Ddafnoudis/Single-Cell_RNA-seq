@@ -4,7 +4,7 @@ library(ggplot2)
 library(tidyverse)
 library(gridExtra)
 
-setwd("C:/Users/dimit/Desktop/scRNA_seq/")
+setwd("~/Desktop/scRNA_seq/")
 
 directories <- list.dirs(path = 'data/', recursive = F, full.names = F)
 
